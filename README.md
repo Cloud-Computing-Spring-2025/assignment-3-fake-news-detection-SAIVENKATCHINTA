@@ -116,5 +116,3 @@ It contains the following columns:
     ```
 
 ---
-
-# Assignment-5-FakeNews-Detection
